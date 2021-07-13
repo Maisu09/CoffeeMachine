@@ -1,0 +1,37 @@
+Documentation day 15 Coffe machine 
+
+For each type of drink the quantities that are needed and the cost 
+ 
+Coin value : penny = 0.01 $
+            dime = 0.10 $
+            nickel = 0.05 $
+            quarter = 0.25 $
+
+
+Print : report == shows the user how much milk water and coffe is 
+                    in the machine at that time 
+
+
+Initial : water: 300ml
+          milk: 200mml
+          coffe: 100g
+          money: $0
+
+
+Check for resources : if there is not enough something when the user asks 
+                        for that drink the machine prints that it cant
+                        be done because of the low quantities of something
+                        ask again for what to make
+
+    Calculate how much money the use inserts and if is not enough refound 
+        it. if is enough proceed with the order
+            Give change if there is too much money inserted 
+
+When we make a coffee change the amount of resources there are in the machine 
+     at that time and 
+            
+
+    
+
+
+
